@@ -38,7 +38,7 @@ WHATSAPPCHANNEL="https://whatsapp.com/channel/0029VasEuWcKgsNq2vvRLl25"
 WHATSAPPGROUP="https://chat.whatsapp.com/JXPZXc14vps0Ao7HjihwYT"
   
    
-   <a href="https://github.com/Milanoscarda2/Milano/fork"><img title="FORK-REPO" src="https://files.catbox.moe/qtofy9.mp4/FORK-REPO-h?color=blue&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/Milanoscarda2/Milano/fork"><img title="FORK-REPO" src="https://files.catbox.moe/v0c0t4.jpg/FORK-REPO-h?color=blue&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://files.catbox.moe/c6td60.jpg'/></a>
@@ -49,7 +49,7 @@ WHATSAPPGROUP="https://chat.whatsapp.com/JXPZXc14vps0Ao7HjihwYT"
  
 
 
-  <a href="https://spark-x-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://files.catbox.moe/qtofy9.mp4/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
+  <a href="https://spark-x-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://files.catbox.moe/v0c0t4.jpg/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
 
   
   <a><img src=''/></a>
@@ -68,7 +68,7 @@ WHATSAPPGROUP="https://chat.whatsapp.com/JXPZXc14vps0Ao7HjihwYT"
 
    💫IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/Milanoscarda2/Milano"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Milanoscarda2/Milano"><img title="DEPLOY-ON HEROKU" src="https://files.catbox.moe/v0c0t4.jpg/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
