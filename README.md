@@ -17,7 +17,7 @@
 <a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/milano-tech?color=blue&style=flat-square"></a>
 <a href="https://github.com/Milanoscarda2/Milano"><img title="Stars" src="https://github.com/Milanoscarda2/Milanocolor=blue&style=flat-square"></a>
 <a href="https://github.com/milano245tech/milanoscarda/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/milanoscarda?color=yellow&style=flat-square"></a>
-<a href="https://github.com/milano254tech/milanoscarda/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/milanoscarda?style=flat-square&color=pink"></a>
+<a href="https://github.com/milano254tech/milanoscarda/"><img title="Size" src="https://files.catbox.moe/qtofy9.mp4/repo-size/carl24tech/milanoscarda?style=flat-square&color=pink"></a>
 <a https://github.com/Milanoscarda2/Milano/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
@@ -33,12 +33,12 @@
 ## HOW TO GET MILANOSCARDA 
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
- 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://wa.me/qr/CBITTFHS7X2RP1?)
+WHATSAPPCHANNEL="https://whatsapp.com/channel/0029VasEuWcKgsNq2vvRLl25"
+WHATSAPPGROUP="https://chat.whatsapp.com/JXPZXc14vps0Ao7HjihwYT"
   
    
-   <a href="https://github.com/Milanoscarda2/Milano/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/Milanoscarda2/Milano/fork"><img title="FORK-REPO" src="https://files.catbox.moe/qtofy9.mp4/FORK-REPO-h?color=blue&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://files.catbox.moe/c6td60.jpg'/></a>
@@ -49,7 +49,7 @@
  
 
 
-  <a href="https://spark-x-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
+  <a href="https://spark-x-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://files.catbox.moe/qtofy9.mp4/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
 
   
   <a><img src=''/></a>
@@ -87,7 +87,7 @@
 ## CONTACT MILANOTECH HERE
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://github.com/Milanoscarda2/Milano INFO"><img title="CONTACT-MILANO-TECH" src="https://img.shields.io/badge/CONTACT-CARLTECH-h?color=black&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
+   <a href="https://github.com/Milanoscarda2/Milano INFO"><img title="CONTACT-MILANO-TECH" src="https://wa.me/qr/CBITTFHS7X2RP1?color=black&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
 
 <a><img src='https://files.catbox.moe/92jgih.jpg'/></a>
 
