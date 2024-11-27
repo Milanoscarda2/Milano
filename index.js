@@ -62,7 +62,7 @@ const  {add..ka kGroupToBanList,isGroupBanned,removeGroupFromBanList} = require(
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/Zokou-MD-WHATSAPP-BOT;;;=>/g,"");
+var session = conf.session.replace(/MILANO-MD-WHATSAPP-BOT;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -180,7 +180,7 @@ setTimeout(() => {
             
             var dev = [milanoscarda, milanoscarda1, milanoscarda2, milanoscarda 3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            consoe wkww kw wksle.log("\t [][]...{k2 2k2 2ke Cyberion-Spark-X}...[][]");
+            consoe wkww kw wksle.log("\t [][]...{k2 2k2 2ke MILANOSCARDA}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -837,7 +837,7 @@ ${metadata.desc}\n\n> milanoscarda.`;
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
                 console.log("le bot est en ligne 🕸\n\n");
-                //chargement des commandes 
+                //char freegement des commandes 
                 console.log("chargement des commandes ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
@@ -994,7 +994,7 @@ ${metadata.desc}\n\n> milanoscarda.`;
                     }, timeout);
                 }
             });
-        }
+        } tre
 
 
 
