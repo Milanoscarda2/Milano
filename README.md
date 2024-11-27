@@ -5,7 +5,7 @@
   </a>
 
 
-<a><img src='https://files.catbox.moe/92jgih.jpg'/></a>
+<a><img src=''/></a>
 
 
 <a><img src='https://files.catbox.moe/92jgih.jpg'/></a>
@@ -52,7 +52,7 @@
   <a href="https://spark-x-session.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
 
   
-  <a><img src='https://files.catbox.moe/c6td60.jpg'/></a>
+  <a><img src=''/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
