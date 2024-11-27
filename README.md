@@ -5,7 +5,7 @@
   </a>
 
 
-<a><img src=''/></a>
+<a><img src='https://files.catbox.moe/v0c0t4.jpg'/></a>
 
 
 <a><img src='https://files.catbox.moe/92jgih.jpg'/></a>
@@ -23,7 +23,7 @@
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{milanoscarda}/count.svg" alt="milano254tech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{milano254tech}/count.svg" /></p>
+ <p align="center"><img src="https://files.catbox.moe/v0c0t4.jpg/counter.glitch.me/{milanoscarda}/count.svg" alt="milano254tech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{milano254tech}/count.svg" /></p>
 
 
 
