@@ -1,21 +1,21 @@
 
 
-<a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/RG95YCw.jpeg" alt="01" border="0" /></a>                     
+<a href="https://files.catbox.moe/c6td60.jpg"><img src="https://files.catbox.moe/92jgih.jpg" alt="01" border="0" /></a>                     
     <h1 align="center">MILANOSCARDA</h1>
   </a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/92jgih.jpg'/></a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/92jgih.jpg'/></a>
 
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑  MILANOSCARDA 
 
 
 <p align="center">
-<a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?color=blue&style=flat-square"></a>
-<a href="https://github.com/carl24tech/milanoscarda/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/milanoscarda?color=blue&style=flat-square"></a>
+<a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/milano-tech?color=blue&style=flat-square"></a>
+<a href="https://github.com/milano-tech/milanoscarda/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/milanoscarda?color=blue&style=flat-square"></a>
 <a href="https://github.com/milano245tech/milanoscarda/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/milanoscarda?color=yellow&style=flat-square"></a>
 <a href="https://github.com/milano254tech/milanoscarda/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/milanoscarda?style=flat-square&color=pink"></a>
 <a href="https://github.com/carl24tech/milanoscarda/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
