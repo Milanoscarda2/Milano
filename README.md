@@ -34,8 +34,7 @@
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://wa.me/qr/CBITTFHS7X2RP1?)
-WHATSAPPCHANNEL="https://whatsapp.com/channel/0029VasEuWcKgsNq2vvRLl25"
-WHATSAPPGROUP="https://chat.whatsapp.com/JXPZXc14vps0Ao7HjihwYT"
+
   
    
    <a href="https://github.com/Milanoscarda2/Milano/fork"><img title="FORK-REPO" src="https://files.catbox.moe/v0c0t4.jpg/FORK-REPO-h?color=blue&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
