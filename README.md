@@ -86,7 +86,7 @@
 
 ## CONTACT MILANOTECH HERE
   DM FOR SERIOUS BUSINESS
-0706452828
+
    <a href="https://github.com/milanoscarda/MILANO-TECH INFO"><img title="CONTACT-MILANO-TECH" src="https://img.shields.io/badge/CONTACT-CARLTECH-h?color=black&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
