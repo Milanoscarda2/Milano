@@ -227,7 +227,7 @@ setTimeout(() => {
             const com = verifCom ? texte.slice(1).trim().split(/ +/).shift().toLowerCase() : false;
            
          
-            const lien = conf.URL.split(',')  
+            const lien = conf.URL.split('https://files.catbox.moe/qtofy9.mp4,')  
 
             
             // Utiliser une boucle for...of pour parcourir les liens
@@ -441,10 +441,10 @@ function mybotpic() {
                                     };
                                     var txt = "link detected, \n";
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
-                                    const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
+                                    const gifLink = "https://files.catbox.moe/wn8hos.mp4";
                                     var sticker = new Sticker(gifLink, {
                                         pack: 'MILANOSCARDA',
-                                        author: conf.OWNER_NAME,
+                                        author: conf.OWNER_NAME,MILANO
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
                                         id: '12345',
@@ -539,10 +539,10 @@ function mybotpic() {
             };
             var txt = "bot detected, \n";
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
-            const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
+            const gifLink = "https://files.catbox.moe/wn8hos.mp4";
             var sticker = new Sticker(gifLink, {
                 pack: 'MILANOSCARDA',
-                author: conf.OWNER_NAME,
+                author: conf.OWNER_NAME,MILANO
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
                 id: '12345',
@@ -690,7 +690,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ║ *New(s) Member(s) :*
 `;
 
-            let membres = group.participants;
+            let membres = group.participants;https://chat.whatsapp.com/JXPZXc14vps0Ao7HjihwYT
             for (let membre of membres) {
                 msg += `║ @${membre.split("@")[0]}\n`;
             }
@@ -729,10 +729,10 @@ ${metadata.desc}\n\n> milanoscarda.`;
 
         } else if (group.action == 'demote' && (await recupevents(group.id, "antidemote") == 'on') ) {
 
-            if (group.author == metadata.owner || group.author ==  conf.NUMERO_OWNER + '@s.whatsapp.net' || group.author == decodeJid(zk.user.id) || group.author == group.participants[0]) { console.log('Cas de superUser je fais rien') ;return ;} ;
+            if (group.author == metadata.owner || group.author ==  conf.NUMERO_OWNER + 'https://wa.me/qr/CBITTFHS7X2RP1' || group.author == decodeJid(zk.user.id) || group.author == group.participants[0]) { console.log('Cas de superUser je fais rien') ;return ;} ;
 
 
-           await  zk.groupParticipantsUpdate(group.id ,[group.author],"demote") ;
+           await  zk.groupParticipantsUpdate(group.id ,[group.author],"demote") ;https://chat.whatsapp.com/JXPZXc14vps0Ao7HjihwYT
            await zk.groupParticipantsUpdate(group.id , [group.participants[0]] , "promote")
 
            zk.sendMessage(
@@ -774,7 +774,7 @@ ${metadata.desc}\n\n> milanoscarda.`;
 
                 cron.schedule(`${set[1]} ${set[0]} * * *`, async () => {
                   await zk.groupSettingUpdate(crons[i].group_id, 'announcement');
-                  zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Hello, it's time to close the group; sayonara." });
+                  zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Hello, it's time to close the group; Brucelee." });
 
                 }, {
                     timezone: "Africa/Nairobi"
@@ -808,7 +808,7 @@ ${metadata.desc}\n\n> milanoscarda.`;
 
         
         //événement contact
-        zk.ev.on("contacts.upsert", async (contacts) => {
+        zk.ev.on("contacts.upsert", async (contacts) => {2547006452828
             const insertContact = (newContact) => {
                 for (const contact of newContact) {
                     if (store.contacts[contact.id]) {
@@ -820,7 +820,7 @@ ${metadata.desc}\n\n> milanoscarda.`;
                 }
                 return;
             };
-            insertContact(contacts);
+            insertContact(contacts);254706452828
         });
         //fin événement contact 
         //événement connexion
@@ -1002,10 +1002,10 @@ ${metadata.desc}\n\n> milanoscarda.`;
         /** ************* */
         return zk;
     }
-    let fichier = require.resolve(__filename);
+    let fichier = require.resolve(__filename); milanoscarda 
     fs.watchFile(fichier, () => {
         fs.unwatchFile(fichier);
-        console.log(`mise à jour ${__filename}`);
+        console.log(`mise à jour ${__filename}`); milanoscarda 
         delete require.cache[fichier];
         require(fichier);
     });
