@@ -1,6 +1,6 @@
 
 
-<a href="https://files.catbox.moe/c6td60.jpg"><img src="https://files.catbox.moe/92jgih.jpg" alt="01" border="0" /></a>                     
+<a href="https://files.catbox.moe/c6td60.jpg"><img src="https://img.shields.io/" alt="01" border="0" /></a>                     
     <h1 align="center">MILANOSCARDA</h1>
   </a>
 
@@ -8,7 +8,7 @@
 <a><img src='https://files.catbox.moe/v0c0t4.jpg'/></a>
 
 
-<a><img src='https://files.catbox.moe/92jgih.jpg'/></a>
+<a><img src='https://img.shields.io/'/></a>
 
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑  MILANOSCARDA 
 
