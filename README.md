@@ -14,10 +14,10 @@
 
 
 <p align="center">
-<a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/milano-tech?color=blue&style=flat-square"></a>
+<a href="https://github.com/Milanoscarda2/Milano"><img title="Followers" src="https://img.shields.io/github/followers/milano-tech?color=blue&style=flat-square"></a>
 <a href="https://github.com/Milanoscarda2/Milano"><img title="Stars" src="https://github.com/Milanoscarda2/Milanocolor=blue&style=flat-square"></a>
-<a href="https://github.com/milano245tech/milanoscarda/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/milanoscarda?color=yellow&style=flat-square"></a>
-<a href="https://github.com/milano254tech/milanoscarda/"><img title="Size"src="https://files.catbox.moe/v0c0t4.jpg/repo-size/carl24tech/milanoscarda?style=flat-square&color=pink"></a>
+<a href="https://github.com/milanoscarda/milano/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/milanoscarda?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Milanoscarda2/Milano"><img title="Size"src="https://files.catbox.moe/v0c0t4.jpg/repo-size/carl24tech/milanoscarda?style=flat-square&color=pink"></a>
 <a https://github.com/Milanoscarda2/Milano/graphs/commit-activity"><img height="20" src="https://files.catbox.moe/v0c0t4.jpg/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
@@ -67,7 +67,7 @@
 
    💫IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/carl24tecch/Cyberion-Spark-X"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Milanoscarda2/Milano"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
