@@ -1,7 +1,7 @@
 
 
 <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/RG95YCw.jpeg" alt="01" border="0" /></a>                     
-    <h1 align="center">CYBERION-SPARK-X</h1>
+    <h1 align="center">MILANOSCARDA</h1>
   </a>
 
 
@@ -10,27 +10,27 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐂𝐘𝐁𝐄𝐑𝐈𝐎𝐍 𝐒𝐏𝐀𝐑𝐊 𝐗 
+## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑  MILANOSCARDA 
 
 
 <p align="center">
 <a href="https://github.com/carl24tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/carl24tech?color=blue&style=flat-square"></a>
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/Cyberion-Spark-X?color=yellow&style=flat-square"></a>
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/Cyberion-Spark-X?style=flat-square&color=pink"></a>
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/carl24tech/milanoscarda/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/milanoscarda?color=blue&style=flat-square"></a>
+<a href="https://github.com/milano245tech/milanoscarda/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/milanoscarda?color=yellow&style=flat-square"></a>
+<a href="https://github.com/milano254tech/milanoscarda/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/milanoscarda?style=flat-square&color=pink"></a>
+<a href="https://github.com/carl24tech/milanoscarda/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{Cyberion-Spark-X}/count.svg" alt="carl24tech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{carl24tech}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{milanoscarda}/count.svg" alt="milano254tech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{milano254tech}/count.svg" /></p>
 
 
 
 
 
 
-## HOW TO GET CYBERION-SPARK-X
+## HOW TO GET MILANOSCARDA 
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -38,7 +38,7 @@
 
   
    
-   <a href="https://github.com/carl24tech/Cyberion-Spark-X/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/milano254tech/milanoscarda/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -84,10 +84,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT CARLTECH HERE
+## CONTACT MILANOTECH HERE
   DM FOR SERIOUS BUSINESS
-
-   <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="CONTACT-CARLTECH" src="https://img.shields.io/badge/CONTACT-CARLTECH-h?color=black&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
+0706452828
+   <a href="https://github.com/milanoscarda/MILANO-TECH INFO"><img title="CONTACT-MILANO-TECH" src="https://img.shields.io/badge/CONTACT-CARLTECH-h?color=black&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
